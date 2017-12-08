@@ -17,10 +17,10 @@ class ViewController: UIViewController {
         
         var arr = ["1","2"]
         
+        print(arr[0])
         
         
-        
-        print(arr[2])
+//        print(arr[2])
         
     }
 
