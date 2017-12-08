@@ -15,6 +15,10 @@ class ViewController: UIViewController {
        
         print("f")
         
+        var arr = ["1","2"]
+        
+        print(arr[2])
+        
     }
 
     override func didReceiveMemoryWarning() {
